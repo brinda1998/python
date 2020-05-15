@@ -1,7 +1,7 @@
 # python
 basics of python
 some basic program of python 
-amount=0;
+amount=0
 #variable initialization
 print(amount)
 
