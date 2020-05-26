@@ -1,0 +1,9 @@
+for i in range(0,51):
+    if(i%2!=0&i%3!=0):
+        print(i)
+
+Explaination:
+1. The for loop ranges from 0 to 50 (as 51 isn’t exclusive).
+2. The expression within the if-statement checks if the remainder obtained when the number divided by 2 and 3 is one or not.
+3. If the remainder isn’t equal to 0, the number isn’t divisible by either 2 and 3.
+4. The number satisfying the condition is printed.
